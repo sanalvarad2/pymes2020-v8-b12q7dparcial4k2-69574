@@ -11,7 +11,7 @@ import {MateriasService} from "../../services/materias.service"
 })
 export class MateriasComponent implements OnInit {
 
-  Titulo = "Articulos"; 
+  Titulo = "Materias"; 
   TituloAccionABMC = {
     A: "(Agregar)",
     B: "(Eliminar)",
